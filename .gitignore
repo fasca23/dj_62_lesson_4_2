@@ -1,0 +1,5 @@
+env
+res
+articles/__pycache__
+articles/migrations/__pycache__
+website/__pycache__
